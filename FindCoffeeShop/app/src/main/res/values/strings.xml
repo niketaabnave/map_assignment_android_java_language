@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindCoffeeShop</string>
+    <string name="coffeshops">Coffee Shops</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_yes">Open Now : Yes</string>
+    <string name="open_no">Open Now : No</string>
+</resources>
